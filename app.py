@@ -16,7 +16,7 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="RAG PDF Q&A System",
+    page_title="INQUIRO PDF",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded"
