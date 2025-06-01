@@ -1,0 +1,13 @@
+langchain_community
+langchain
+ollama
+numpy
+streamlit
+langchain-core
+langchain-ollama
+langchain_text_splitters
+langchain-qdrant
+pypdf
+sentence-transformers
+python-dotenv
+einops
